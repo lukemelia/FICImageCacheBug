@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FICImageCacheBug/YappModel.m"
+            timestampString = "421605059.190441"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-drawingBlockForImage:withFormatName:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[YappModel drawingBlockForImage:withFormatName:]_block_invoke"
+                  moduleName = "FICImageCacheBug"
+                  urlString = "file:///Users/lmelia/p/fic-image-cache-bug/FICImageCacheBug/FICImageCacheBug/YappModel.m"
+                  timestampString = "421605954.731316"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[YappModel drawingBlockForImage:withFormatName:]_block_invoke"
+                  moduleName = "FICImageCacheBugTests"
+                  urlString = "file:///Users/lmelia/p/fic-image-cache-bug/FICImageCacheBug/FICImageCacheBug/YappModel.m"
+                  timestampString = "421605955.410539"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/FastImageCache/FastImageCache/FICImageCache.m"
+            timestampString = "421605751.979165"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "-_processImage:forEntity:withFormatName:completionBlocksDictionary:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FICImageCache _processImage:forEntity:withFormatName:completionBlocksDictionary:]"
+                  moduleName = "FICImageCacheBug"
+                  urlString = "file:///Users/lmelia/p/fic-image-cache-bug/FICImageCacheBug/Pods/FastImageCache/FastImageCache/FICImageCache.m"
+                  timestampString = "421605954.813841"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "529">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FICImageCache _processImage:forEntity:withFormatName:completionBlocksDictionary:]"
+                  moduleName = "FICImageCacheBugTests"
+                  urlString = "file:///Users/lmelia/p/fic-image-cache-bug/FICImageCacheBug/Pods/FastImageCache/FastImageCache/FICImageCache.m"
+                  timestampString = "421605955.413829"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "529">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
